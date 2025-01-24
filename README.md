@@ -1,6 +1,6 @@
 # Website Overview and Documentation
 
-## Project: E-commerce Website
+## Project: Foodtuck Q-commerce Marketplace Website
 
 ### **Introduction**
 This project is a fully functional e-commerce website built using Next.js, Tailwind CSS, and TypeScript, with Sanity CMS for dynamic content management. The application focuses on delivering a smooth and professional user experience with essential features like product listing, cart functionality, filters, and dynamic routing.
